@@ -1,0 +1,9 @@
+C:\Users\P-O\source\repos\wfa_exercice3\bin\Debug\wfa_exercice3.exe.config
+C:\Users\P-O\source\repos\wfa_exercice3\bin\Debug\wfa_exercice3.exe
+C:\Users\P-O\source\repos\wfa_exercice3\bin\Debug\wfa_exercice3.pdb
+C:\Users\P-O\source\repos\wfa_exercice3\obj\Debug\wfa_exercice3.csprojAssemblyReference.cache
+C:\Users\P-O\source\repos\wfa_exercice3\obj\Debug\wfa_exercice3.frmExercice3.resources
+C:\Users\P-O\source\repos\wfa_exercice3\obj\Debug\wfa_exercice3.Properties.Resources.resources
+C:\Users\P-O\source\repos\wfa_exercice3\obj\Debug\wfa_exercice3.csproj.GenerateResource.cache
+C:\Users\P-O\source\repos\wfa_exercice3\obj\Debug\wfa_exercice3.exe
+C:\Users\P-O\source\repos\wfa_exercice3\obj\Debug\wfa_exercice3.pdb
